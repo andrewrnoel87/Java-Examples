@@ -1,6 +1,6 @@
 public class TestBox {
 	
-	Integer i;
+	Integer i = 8;
 	int j;
 	
 	public static void main (String[] args) {
