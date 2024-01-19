@@ -1,3 +1,1 @@
-# headfirst-study
-practice code
-adding a new line of info
+Examples of java code I have been working through.
